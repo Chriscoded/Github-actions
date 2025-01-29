@@ -21,10 +21,6 @@ What you’ll learn:
 - Implement DevSecOps principles
 - Creating pipelines for aspnet and dockerized apps
 
-Are there any course requirements or prerequisites?
-- No DevOps experience required, this course will take you from the ground up to the expert level
-- Basic knowledge of Git and Github
-
 Who this course is for:
 - All beginners (developers, ops and devops) who wants to learn Github Actions
 - Developers who already use Git and Github and are looking to master another cool feature of Github
